@@ -174,7 +174,7 @@ header.masthead {
   background-size: cover;
 }
 
-.carousel-item {
+header.carousel-item {
   height: 65vh;
   min-height: 300px;
   background: no-repeat center center scroll;
